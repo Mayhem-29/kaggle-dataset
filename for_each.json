@@ -20,10 +20,6 @@
 	"file_name":"olist_orders_dataset.csv"
 	},
 	{
-	"csv_relative_url": "BigDataProjects/refs/heads/main/Project-Brazillian%20Ecommerce/Data/olist_products_dataset.csv",
-	"file_name":"olist_products_dataset.csv"
-	},
-	{
 	"csv_relative_url": "BigDataProjects/refs/heads/main/Project-Brazillian%20Ecommerce/Data/olist_sellers_dataset.csv",
 	"file_name":"olist_sellers_dataset.csv"
 	}
